@@ -1,0 +1,533 @@
+facing E
+moved 4 block/s
+new coord 4 0
+facing S
+moved 3 block/s
+new coord 4 -3
+facing E
+moved 3 block/s
+new coord 7 -3
+facing N
+moved 2 block/s
+new coord 7 -1
+facing W
+moved 1 block/s
+new coord 6 -1
+facing N
+moved 1 block/s
+new coord 6 0
+facing W
+moved 1 block/s
+new coord 5 0
+facing N
+moved 2 block/s
+new coord 5 2
+facing E
+moved 3 block/s
+new coord 8 2
+facing N
+moved 5 block/s
+new coord 8 7
+facing W
+moved 5 block/s
+new coord 3 7
+facing N
+moved 4 block/s
+new coord 3 11
+facing W
+moved 4 block/s
+new coord -1 11
+facing N
+moved 2 block/s
+new coord -1 13
+facing E
+moved 4 block/s
+new coord 3 13
+facing N
+moved 3 block/s
+new coord 3 16
+facing E
+moved 3 block/s
+new coord 6 16
+facing N
+moved 3 block/s
+new coord 6 19
+facing E
+moved 3 block/s
+new coord 9 19
+facing S
+moved 4 block/s
+new coord 9 15
+facing W
+moved 2 block/s
+new coord 7 15
+facing S
+moved 1 block/s
+new coord 7 14
+facing W
+moved 2 block/s
+new coord 5 14
+facing S
+moved 3 block/s
+new coord 5 11
+facing E
+moved 2 block/s
+new coord 7 11
+facing N
+moved 1 block/s
+new coord 7 12
+facing E
+moved 3 block/s
+new coord 10 12
+facing S
+moved 5 block/s
+new coord 10 7
+facing E
+moved 1 block/s
+new coord 11 7
+facing N
+moved 4 block/s
+new coord 11 11
+facing E
+moved 2 block/s
+new coord 13 11
+facing N
+moved 4 block/s
+new coord 13 15
+facing E
+moved 3 block/s
+new coord 16 15
+facing S
+moved 1 block/s
+new coord 16 14
+facing W
+moved 2 block/s
+new coord 14 14
+facing S
+moved 5 block/s
+new coord 14 9
+facing W
+moved 2 block/s
+new coord 12 9
+facing S
+moved 1 block/s
+new coord 12 8
+facing W
+moved 5 block/s
+new coord 7 8
+facing S
+moved 5 block/s
+new coord 7 3
+facing W
+moved 5 block/s
+new coord 2 3
+facing N
+moved 3 block/s
+new coord 2 6
+facing W
+moved 1 block/s
+new coord 1 6
+facing N
+moved 4 block/s
+new coord 1 10
+facing E
+moved 5 block/s
+new coord 6 10
+facing S
+moved 1 block/s
+new coord 6 9
+facing W
+moved 4 block/s
+new coord 2 9
+facing S
+moved 1 block/s
+new coord 2 8
+facing E
+moved 3 block/s
+new coord 5 8
+facing S
+moved 2 block/s
+new coord 5 6
+facing E
+moved 2 block/s
+new coord 7 6
+facing N
+moved 3 block/s
+new coord 7 9
+facing E
+moved 4 block/s
+new coord 11 9
+facing S
+moved 3 block/s
+new coord 11 6
+facing E
+moved 2 block/s
+new coord 13 6
+facing N
+moved 5 block/s
+new coord 13 11
+facing E
+moved 4 block/s
+new coord 17 11
+facing S
+moved 5 block/s
+new coord 17 6
+facing E
+moved 2 block/s
+new coord 19 6
+facing S
+moved 2 block/s
+new coord 19 4
+facing E
+moved 1 block/s
+new coord 20 4
+facing N
+moved 3 block/s
+new coord 20 7
+facing E
+moved 3 block/s
+new coord 23 7
+facing N
+moved 4 block/s
+new coord 23 11
+facing E
+moved 4 block/s
+new coord 27 11
+facing S
+moved 5 block/s
+new coord 27 6
+facing E
+moved 1 block/s
+new coord 28 6
+facing N
+moved 1 block/s
+new coord 28 7
+facing E
+moved 3 block/s
+new coord 31 7
+facing N
+moved 5 block/s
+new coord 31 12
+facing W
+moved 2 block/s
+new coord 29 12
+facing N
+moved 7 block/s
+new coord 29 19
+facing E
+moved 2 block/s
+new coord 31 19
+facing S
+moved 2 block/s
+new coord 31 17
+facing E
+moved 1 block/s
+new coord 32 17
+facing N
+moved 3 block/s
+new coord 32 20
+facing E
+moved 1 block/s
+new coord 33 20
+facing N
+moved 3 block/s
+new coord 33 23
+facing W
+moved 4 block/s
+new coord 29 23
+facing S
+moved 1 block/s
+new coord 29 22
+facing E
+moved 3 block/s
+new coord 32 22
+facing S
+moved 5 block/s
+new coord 32 17
+facing W
+moved 4 block/s
+new coord 28 17
+facing S
+moved 1 block/s
+new coord 28 16
+facing W
+moved 1 block/s
+new coord 27 16
+facing S
+moved 1 block/s
+new coord 27 15
+facing E
+moved 1 block/s
+new coord 28 15
+facing S
+moved 2 block/s
+new coord 28 13
+facing E
+moved 4 block/s
+new coord 32 13
+facing S
+moved 2 block/s
+new coord 32 11
+facing E
+moved 5 block/s
+new coord 37 11
+facing N
+moved 5 block/s
+new coord 37 16
+facing W
+moved 5 block/s
+new coord 32 16
+facing N
+moved 2 block/s
+new coord 32 18
+facing W
+moved 4 block/s
+new coord 28 18
+facing S
+moved 5 block/s
+new coord 28 13
+facing W
+moved 4 block/s
+new coord 24 13
+facing N
+moved 4 block/s
+new coord 24 17
+facing E
+moved 5 block/s
+new coord 29 17
+facing N
+moved 5 block/s
+new coord 29 22
+facing E
+moved 3 block/s
+new coord 32 22
+facing N
+moved 1 block/s
+new coord 32 23
+facing W
+moved 3 block/s
+new coord 29 23
+facing S
+moved 1 block/s
+new coord 29 22
+facing E
+moved 1 block/s
+new coord 30 22
+facing N
+moved 3 block/s
+new coord 30 25
+facing W
+moved 4 block/s
+new coord 26 25
+facing N
+moved 5 block/s
+new coord 26 30
+facing W
+moved 3 block/s
+new coord 23 30
+facing N
+moved 5 block/s
+new coord 23 35
+facing E
+moved 3 block/s
+new coord 26 35
+facing S
+moved 3 block/s
+new coord 26 32
+facing E
+moved 5 block/s
+new coord 31 32
+facing N
+moved 5 block/s
+new coord 31 37
+facing E
+moved 3 block/s
+new coord 34 37
+facing S
+moved 4 block/s
+new coord 34 33
+facing E
+moved 3 block/s
+new coord 37 33
+facing S
+moved 3 block/s
+new coord 37 30
+facing W
+moved 1 block/s
+new coord 36 30
+facing N
+moved 3 block/s
+new coord 36 33
+facing E
+moved 2 block/s
+new coord 38 33
+facing S
+moved 2 block/s
+new coord 38 31
+facing E
+moved 1 block/s
+new coord 39 31
+facing S
+moved 1 block/s
+new coord 39 30
+facing E
+moved 3 block/s
+new coord 42 30
+facing N
+moved 3 block/s
+new coord 42 33
+facing W
+moved 3 block/s
+new coord 39 33
+facing S
+moved 1 block/s
+new coord 39 32
+facing W
+moved 2 block/s
+new coord 37 32
+facing S
+moved 1 block/s
+new coord 37 31
+facing W
+moved 4 block/s
+new coord 33 31
+facing N
+moved 4 block/s
+new coord 33 35
+facing W
+moved 1 block/s
+new coord 32 35
+facing S
+moved 1 block/s
+new coord 32 34
+facing W
+moved 3 block/s
+new coord 29 34
+facing N
+moved 3 block/s
+new coord 29 37
+facing E
+moved 4 block/s
+new coord 33 37
+facing S
+moved 1 block/s
+new coord 33 36
+facing E
+moved 5 block/s
+new coord 38 36
+facing N
+moved 2 block/s
+new coord 38 38
+facing E
+moved 2 block/s
+new coord 40 38
+facing S
+moved 3 block/s
+new coord 40 35
+facing W
+moved 2 block/s
+new coord 38 35
+facing S
+moved 3 block/s
+new coord 38 32
+facing W
+moved 4 block/s
+new coord 34 32
+facing S
+moved 5 block/s
+new coord 34 27
+facing W
+moved 1 block/s
+new coord 33 27
+facing N
+moved 4 block/s
+new coord 33 31
+facing E
+moved 5 block/s
+new coord 38 31
+facing S
+moved 4 block/s
+new coord 38 27
+facing E
+moved 4 block/s
+new coord 42 27
+facing S
+moved 1 block/s
+new coord 42 26
+facing E
+moved 3 block/s
+new coord 45 26
+facing S
+moved 1 block/s
+new coord 45 25
+facing W
+moved 3 block/s
+new coord 42 25
+facing S
+moved 2 block/s
+new coord 42 23
+facing E
+moved 3 block/s
+new coord 45 23
+facing S
+moved 1 block/s
+new coord 45 22
+facing E
+moved 2 block/s
+new coord 47 22
+facing S
+moved 3 block/s
+new coord 47 19
+facing E
+moved 3 block/s
+new coord 50 19
+facing N
+moved 1 block/s
+new coord 50 20
+facing W
+moved 3 block/s
+new coord 47 20
+facing N
+moved 4 block/s
+new coord 47 24
+facing W
+moved 4 block/s
+new coord 43 24
+facing S
+moved 5 block/s
+new coord 43 19
+facing W
+moved 3 block/s
+new coord 40 19
+facing N
+moved 5 block/s
+new coord 40 24
+facing E
+moved 4 block/s
+new coord 44 24
+facing S
+moved 1 block/s
+new coord 44 23
+facing E
+moved 2 block/s
+new coord 46 23
+facing S
+moved 3 block/s
+new coord 46 20
+facing W
+moved 5 block/s
+new coord 41 20
+facing S
+moved 5 block/s
+new coord 41 15
+facing E
+moved 4 block/s
+new coord 45 15
+facing N
+moved 1 block/s
+new coord 45 16
+facing W
+moved 1 block/s
+new coord 44 16
+44 16
+distance 60
