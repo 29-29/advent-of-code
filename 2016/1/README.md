@@ -17,4 +17,4 @@ For example:
 
 **How many blocks away** is Easter Bunny HQ?
 
-**Answer**: 
+**Answer**: `288`
